@@ -4,6 +4,23 @@ https://hafizovs.github.io/react-motion-landing/
 
 # Motion landing
 
+## About
+
+Animated marketing page with accessible motion and routed layout transitions, built with Framer Motion and React Router. Home plays a hero entrance and reveals sections on scroll. About continues that hero with a shared `layoutId`, and **prefers-reduced-motion** shortens the animation to instant.
+
+## Capabilities
+
+- Home hero entrance and scroll-revealed sections
+- Shared `layoutId` hero between Home and About
+- **prefers-reduced-motion** shortens animations to instant
+- Reverse transition when navigating back to Home
+
+## Functionality
+
+- Open Home, watch the hero, and scroll to reveal sections
+- Open About and follow the shared `layoutId` hero
+- Enable **prefers-reduced-motion** and return to Home for the reverse transition
+
 Animated marketing page with accessible motion and routed layout transitions — Framer Motion, React Router.
 
 ## Scripts
