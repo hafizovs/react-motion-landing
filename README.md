@@ -23,6 +23,10 @@ Animated marketing page with accessible motion and routed layout transitions, bu
 
 Animated marketing page with accessible motion and routed layout transitions — Framer Motion, React Router.
 
+## Responsive layout
+
+Full adaptive layout for phone (~375px) and tablet (~768px): readable typography and spacing, no page-level horizontal scroll, and touch-friendly controls. The desktop visual language is preserved.
+
 ## Scripts
 
 ```bash
